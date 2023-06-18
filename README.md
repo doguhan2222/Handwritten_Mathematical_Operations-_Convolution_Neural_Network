@@ -1,1 +1,1 @@
-# doguhan2222-Handwritten_Mathematical_Operations-_Convolution_Neural_Network
+We developed this project, which recognizes handwritten numbers and operations and finds the result, using Convolution Neural Network (CNN), so that children can learn the answer to the question by taking a single photo.
